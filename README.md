@@ -3,7 +3,7 @@
 Hello, I'm Yeonji.
 
 ### **📚 Projects**
-hello
+[projects](https://github.com/yeonjibaek/projects/blob/main/README.md)
 
 ### **🛠️ Tools**
 Language: SQL, Python
