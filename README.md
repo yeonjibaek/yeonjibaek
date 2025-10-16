@@ -2,13 +2,12 @@
 
 Hello, I'm Yeonji.
 
-
-## 📚 Projects
+**📚 Projects**
 hello
 
-## 🛠️ Tools
+**🛠️ Tools**
 Language: SQL, Python
 Database: Google BigQuery, MySQL
 Visualization: Tableau, Mode, Looker Studio
 
-##👋🏻 Connect with Me
+**👋🏻 Connect with Me**
