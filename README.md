@@ -1,6 +1,6 @@
 ## 💭 Introduction
 
-Hello! My name is Yeonji Baek, and I am a senior at Carnegie Mellon University studying Statistics and Machine Learning. Passionate about all aspects of data, I thrive on analyzing and extracting insights from various data sources. I value the ability to approach data from multiple perspectives, using it as a foundation for curiosity, critical thinking, and deeper understanding! :)
+Hello! My name is Yeonji Baek, and I am a senior at Carnegie Mellon University studying Statistics and Machine Learning and Business Analytics. Passionate about all aspects of data, I thrive on analyzing and extracting insights from various data sources. I value the ability to approach data from multiple perspectives, using it as a foundation for curiosity, critical thinking, and deeper understanding! :)
 
 Currently working on my GitHub profile to update with some projects I've done...
 
